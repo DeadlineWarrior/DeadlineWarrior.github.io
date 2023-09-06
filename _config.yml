@@ -1,18 +1,18 @@
 # Site settings
-title: Dead.Warrior
-SEOTitle: Dead.Warrior
+title: Deadline.Warrior
+SEOTitle: Deadline.Warrior
 header-img: img/su.jpg
-email: 1468211595@qq.com
+email: 361128583@qq.com
 description: "是个疯子"
 keyword: "春夏"
-url: "https://rainsbluechan.github.io"          # your host, for absolute URL
+url: "https://DeadlineWarrior.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/rainsbluechan/rainsbluechan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "二次元，音乐，算卦入门级"
-sidebar-avatar:  img/星野爱1.gif     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "test"
+sidebar-avatar:  img/su.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: rainsbluechan.github.io    #仓库名称
-  owner: rainsbluechan    #github用户名
-  admin: rainsbluechan
+  repo: DeadlineWarrior.github.io    #仓库名称
+  owner: DeadlineWarrior   #github用户名
+  admin: DeadlineWarrior
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -97,7 +97,7 @@ service-worker: true
 
 friends: [
     {
-        title: "个人B站主页喵",
-        href: "https://space.bilibili.com/95776676?spm_id_from=333.337.search-card.all.click"
+        title: "none",
+        href: "https://pornhub.com"
     }
 ]
